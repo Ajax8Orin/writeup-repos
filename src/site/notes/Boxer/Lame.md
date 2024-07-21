@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boxer/lame/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/boxer/lame/"}
 ---
 
 ## Writeup
